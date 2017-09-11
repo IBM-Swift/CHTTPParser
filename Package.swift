@@ -18,5 +18,5 @@ import PackageDescription
 
 let package = Package(
     name: "CHTTPParser",
-    dependencies: [ ])
+    dependencies: [])
 
